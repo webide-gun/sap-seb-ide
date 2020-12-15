@@ -1,2 +1,2 @@
-# sap-seb-ide
+# sap-web-ide
 GitHub with sap web IDE
